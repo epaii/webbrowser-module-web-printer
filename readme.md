@@ -46,6 +46,6 @@ isRemotePdf|如果isPdf为1，则此参数为远程pdf还是本地pdf,| 1 是，
 
 print 函数的pageSize 为 “A3”的简写
 
-### 3, printA3   
+### 3, printA4   
 
 print 函数的pageSize 为 “A4”的简写
