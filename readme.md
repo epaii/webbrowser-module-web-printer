@@ -3,6 +3,10 @@
 ## 引用方式
 
 ### 1,复制dll和config.json文件到ext/webprinter 目录下。 
+### 2，在应用程序的config.json文件中增加
+
+```
+"rlr_dir":"ext/webprinter/rlr"
 
 ### 3，在module.json文件中增加
 
