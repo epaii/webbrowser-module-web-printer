@@ -7,7 +7,7 @@
 
 ```
 "rlr_dir":"ext/webprinter/rlr"
-
+```
 ### 3，在module.json文件中增加
 
 ```
