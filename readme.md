@@ -4,7 +4,7 @@
 
 ### 1,复制dll和config.json文件到ext/webprinter 目录下。 
 
-### 2，在module.json文件中增加
+### 3，在module.json文件中增加
 
 ```
 "web-printer":{"dll":"ext/webprinter/WebPrinter.dll","class":"WebPrinter.Printer","methods":"print,printA3,printA4"}
